@@ -1,0 +1,16 @@
+﻿  Soldier.cpp
+D:\CppProjects\SFML2.5.1\SFML2.5.1\Soldier.cpp(7,43): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+D:\CppProjects\SFML2.5.1\SFML2.5.1\Soldier.cpp(7,30): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+D:\CppProjects\SFML2.5.1\SFML2.5.1\Soldier.cpp(58,56): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+D:\CppProjects\SFML2.5.1\SFML2.5.1\Soldier.cpp(58,56): warning C4244:         with
+D:\CppProjects\SFML2.5.1\SFML2.5.1\Soldier.cpp(58,56): warning C4244:         [
+D:\CppProjects\SFML2.5.1\SFML2.5.1\Soldier.cpp(58,56): warning C4244:             T=float
+D:\CppProjects\SFML2.5.1\SFML2.5.1\Soldier.cpp(58,56): warning C4244:         ]
+D:\CppProjects\SFML2.5.1\SFML2.5.1\Soldier.cpp(58,39): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+D:\CppProjects\SFML2.5.1\SFML2.5.1\Soldier.cpp(58,39): warning C4244:         with
+D:\CppProjects\SFML2.5.1\SFML2.5.1\Soldier.cpp(58,39): warning C4244:         [
+D:\CppProjects\SFML2.5.1\SFML2.5.1\Soldier.cpp(58,39): warning C4244:             T=float
+D:\CppProjects\SFML2.5.1\SFML2.5.1\Soldier.cpp(58,39): warning C4244:         ]
+  SFML2.5.1.vcxproj -> D:\CppProjects\SFML2.5.1\x64\Debug\SFML2.5.1.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

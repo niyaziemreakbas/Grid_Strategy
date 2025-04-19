@@ -1,0 +1,11 @@
+﻿  SFML2.5.1.cpp
+D:\CppProjects\SFML2.5.1\SFML2.5.1\SFML2.5.1.cpp(38,62): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+D:\CppProjects\SFML2.5.1\SFML2.5.1\SFML2.5.1.cpp(38,38): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  Kod üretiliyor
+  5 of 5 functions (100.0%) were compiled.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Kodun üretilmesi tamamlandı
+  SFML2.5.1.vcxproj -> D:\CppProjects\SFML2.5.1\x64\Release\SFML2.5.1.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
